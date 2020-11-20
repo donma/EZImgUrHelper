@@ -18,7 +18,7 @@ Tutorial
 [Newtonsoft.Json](https://www.nuget.org/packages/Newtonsoft.Json/ "Newtonsoft.Json") , [RestSharp](https://www.nuget.org/packages/RestSharp/106.11.8-alpha.0.7)  
 
 
-Document
+How To Start?
 ----
 
 ### Upload Image To ImgUr 
@@ -119,7 +119,7 @@ Document
             
 ```
 
-#### Get All Images Info form Album
+### Get All Images Info form Album
 
 取得所有相簿的照片資訊
 
@@ -194,7 +194,7 @@ Document
 
 ```
 
-#### Get Album Info
+### Get Album Info
 
 取得相簿資訊
 
@@ -305,7 +305,7 @@ Document
              */
 ```
 
-#### Delete Image
+### Delete Image
 
 刪除圖片，下面放的參數是 image deletehash
 
