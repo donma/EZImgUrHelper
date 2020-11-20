@@ -1,7 +1,7 @@
 # EZImgUrHelper
 
 
-A simple library to upload image to ImgUr and some operations about album.
+A simple library for .Net developer to upload image to ImgUr and some operations about album.
 Happy Coding :)
 
 Tutorial
