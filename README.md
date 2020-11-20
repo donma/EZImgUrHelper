@@ -8,7 +8,7 @@ Tutorial
 ----
 
 一個簡單的 Library ，讓你可以上傳圖片到 ImgUr 
-1. 你得先去[這邊](https://api.imgur.com/oauth2/addclient)請 開發者帳號 你要拿到  client id 之後就可以了
+1. 你得先去[這邊](https://api.imgur.com/oauth2/addclient)申請 開發者帳號 你要拿到  client id 之後就可以了
 
 2. 這邊都是採取匿名處理，所以要自己好好管理自己的deleteHash
 
