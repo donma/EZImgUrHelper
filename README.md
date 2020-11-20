@@ -14,7 +14,7 @@ Tutorial
 
 3. 我這邊沒有處理將圖片從相簿中移除關聯，因為那 API 我怎麼測試都不成功，所以我索性就是寫直接把圖片刪除
 
-4. 因為我查到的 library 不是有點龐大就是引入的相依套件有點多，這邊我時做的部分比較少，只需要 
+4. 因為我查到的 library 不是有點龐大就是引入的相依套件有點多，這邊我實做的部分比較少，只需要 
 [Newtonsoft.Json](https://www.nuget.org/packages/Newtonsoft.Json/ "Newtonsoft.Json") , [RestSharp](https://www.nuget.org/packages/RestSharp/106.11.8-alpha.0.7)  
 
 
